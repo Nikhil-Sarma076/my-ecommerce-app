@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nikhil-Sarma076/my-ecpmmerce-app/static/css/main.262eee60.css",
+    "main.js": "/Nikhil-Sarma076/my-ecpmmerce-app/static/js/main.25cc6866.js",
+    "static/js/453.ff4b651d.chunk.js": "/Nikhil-Sarma076/my-ecpmmerce-app/static/js/453.ff4b651d.chunk.js",
+    "index.html": "/Nikhil-Sarma076/my-ecpmmerce-app/index.html",
+    "main.262eee60.css.map": "/Nikhil-Sarma076/my-ecpmmerce-app/static/css/main.262eee60.css.map",
+    "main.25cc6866.js.map": "/Nikhil-Sarma076/my-ecpmmerce-app/static/js/main.25cc6866.js.map",
+    "453.ff4b651d.chunk.js.map": "/Nikhil-Sarma076/my-ecpmmerce-app/static/js/453.ff4b651d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262eee60.css",
+    "static/js/main.25cc6866.js"
+  ]
+}
